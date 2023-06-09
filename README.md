@@ -11,3 +11,11 @@ we conducted a comprehensive analysis of the epidemics. Our focus was on paramet
 * The following Figure illustrates the Gaussian model's fit to the daily number of confirmed cases, showing a good alignment with the actual data.
 <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus.JPG" alt="Image" width="300" height="200">
 
+#### 3. Prediction of the Epidemic
+* We projected the future spread, considering the significant increase in confirmed cases expected.
+* The Gaussian model was employed to estimate the value and timing of the expected peak, using the logistic model to determine growth rates.
+* The following Figure presents three different scenarios, illustrating the predicted number of cumulative cases and daily cases, with peak times.
+<div style="display: flex;">
+  <img src="path/to/first/image.png" alt="First Image" style="width: 50%;">
+  <img src="path/to/second/image.png" alt="Second Image" style="width: 50%;">
+</div>
