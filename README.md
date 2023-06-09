@@ -5,4 +5,4 @@ we conducted a comprehensive analysis of the epidemics. Our focus was on paramet
 * The logistic model yielded a root mean square error (RMSE) of 5229.7 and 1,924.4, indicating a good fit.
 * We assessed the performance of our model by evaluating its goodness of fit.
 (https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/cum_one_ira.pdf)
-(https://github.com/AmenahALn/AmenahALn/blob/main/Risk%20analysisData%20scientist.png)
+
