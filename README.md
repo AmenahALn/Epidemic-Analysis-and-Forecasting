@@ -17,5 +17,5 @@ we conducted a comprehensive analysis of the epidemics. Our focus was on paramet
 * The following Figure presents three different scenarios, illustrating the predicted number of cumulative cases and daily cases, with peak times.
 <div style="display: flex;">
   <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus_senrio.JPG" alt="First Image" style="width: 50%;">
-  <img src="path/to/second/image.png" alt="Second Image" style="width: 50%;">
+  <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/logistic.JPG" alt="Second Image" style="width: 50%;">
 </div>
