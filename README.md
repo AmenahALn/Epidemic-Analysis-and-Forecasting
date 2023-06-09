@@ -8,4 +8,5 @@ we conducted a comprehensive analysis of the epidemics. Our focus was on paramet
 ### 2. Gaussian Model and Reproduction Numbers
 * We employed the Gaussian model to fit the daily number of confirmed cases, considering reproduction numbers.
 * The following Figure illustrates the Gaussian model's fit to the daily number of confirmed cases, showing a good alignment with the actual data.
+<img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus.JPG" alt="Image" width="300" height="200">
 
